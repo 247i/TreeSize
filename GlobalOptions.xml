@@ -40,7 +40,7 @@
 		<Left>104</Left>
 		<Top>0</Top>
 		<Right>1020</Right>
-		<Bottom>750</Bottom>
+		<Bottom>751</Bottom>
 	</TMainFormWindowPlacement.rcNormalPosition>
 	<CheckForUpdateOptions Type="TCheckForUpdateOptions">
 		<LatestOnlineVersion>-1</LatestOnlineVersion>
